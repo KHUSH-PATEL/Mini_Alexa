@@ -3,7 +3,7 @@ THE AIM IS TO CREATE A ALEXA CODE, WHICH CAN HEAR YOU AND TALK YOU BACK. IT CAN 
 
 # Alexa can only work if you add the word alexa in your command.
 
-#The various functionality are as below:
+# The various functionality are as below:
 1) Plays song on YouTube
 2) Tells you Date
 3) Tells you Time
