@@ -11,8 +11,8 @@ THE AIM IS TO CREATE A ALEXA CODE, WHICH CAN HEAR YOU AND TALK YOU BACK. IT CAN 
    1) Person
    2) Thing/Object
    3) Place
-5) can add some funny content like how alexa is feeling? Alexa, are you single?
+5) Can add some funny content like "How alexa is feeling?", "Alexa, are you single?".
 6) Tells you unlimited jokes.
 7) Will stop working when you say the command stop.
 8) If it didnt get your command then it will talk you back as "Please say the command again...".
-9) you will be notified with the sound "LIstening..." when alexa will be ready to hear you.
+9) You will be notified with the sound "LIstening..." when alexa will be ready to hear you.
